@@ -515,14 +515,14 @@
     lodash "^4.17.21"
 
 "@hint/hint-content-type@^4.2.18":
-  version "4.2.17"
-  resolved "https://registry.yarnpkg.com/@hint/hint-content-type/-/hint-content-type-4.2.17.tgz#2e95d0798918c06eaf6f51f19f943e9ce8a05bc2"
-  integrity sha512-vsG0UxLW2QAhKCil5oNkrgLBInu2+CejtOHMr00yZIrogM5ByNEK0XhntngDsDi7xCw75fLbbFjNdNGfyjDsIw==
+  version "4.2.19"
+  resolved "https://registry.yarnpkg.com/@hint/hint-content-type/-/hint-content-type-4.2.19.tgz#472c5f42955cb6b37cf89ea2012e57dc4ca96745"
+  integrity sha512-a8+BnNEwmQKH4ipf78fhVECmUB+YQ14BoN2EwlqRFKSKTfv+8UWnZPz/iltUk06rfUfGg0k+NslTk6nayOULFA==
   dependencies:
-    "@hint/utils" "^7.0.16"
+    "@hint/utils" "^7.0.17"
     "@hint/utils-debug" "^1.0.10"
     "@hint/utils-i18n" "^1.0.12"
-    "@hint/utils-network" "^1.0.17"
+    "@hint/utils-network" "^1.0.19"
     "@hint/utils-string" "^1.0.12"
     "@hint/utils-types" "^1.1.7"
     content-type "^1.0.4"
@@ -562,12 +562,12 @@
     "@hint/utils-types" "^1.1.7"
 
 "@hint/hint-highest-available-document-mode@^5.0.14":
-  version "5.0.13"
-  resolved "https://registry.yarnpkg.com/@hint/hint-highest-available-document-mode/-/hint-highest-available-document-mode-5.0.13.tgz#a81ba39a28423b731a4274f95cc6b2ce9be37a7f"
-  integrity sha512-zoo/nH4xjZk+rvY3J/kRm87qtnZqspdu4vReoC7oqxUN5agFWA+JzNY0EKxDsRcrYlfGop6KM/4mznjUHB5GDw==
+  version "5.0.15"
+  resolved "https://registry.yarnpkg.com/@hint/hint-highest-available-document-mode/-/hint-highest-available-document-mode-5.0.15.tgz#f691c1c6f5eb4c9727991d47f906110e31470aa4"
+  integrity sha512-Xrs5yPQ92Akp2z8q8DFRxigI6nSG6CV9v2bvPvO3bbg9wK/rjNcl3t5jU+uFHgj2HPedhX0QK1EQULhnqZZ2qQ==
   dependencies:
     "@hint/utils-i18n" "^1.0.12"
-    "@hint/utils-network" "^1.0.17"
+    "@hint/utils-network" "^1.0.19"
     "@hint/utils-string" "^1.0.12"
     "@hint/utils-types" "^1.1.7"
 
@@ -584,23 +584,23 @@
     lodash "^4.17.21"
 
 "@hint/hint-http-cache@^4.0.14":
-  version "4.0.13"
-  resolved "https://registry.yarnpkg.com/@hint/hint-http-cache/-/hint-http-cache-4.0.13.tgz#78fb499e898564ccc1129c9a885c220ce0486d94"
-  integrity sha512-y6Cqy/vNFleTseZLF8RVxn7Qc4qtykCAUZ7rWz672QqrsoQMvpodDl+ekZ58ScYsbwor8YyBOw8ikePmqWDHfw==
+  version "4.0.15"
+  resolved "https://registry.yarnpkg.com/@hint/hint-http-cache/-/hint-http-cache-4.0.15.tgz#11207c5ce895aab8e2f06797df4f469519e19857"
+  integrity sha512-yyJJvxJCD8VvDMcjrvBWoPEvqMA/o00GvBKEae16IfW3BVsYbaWWwxImj/6qfyRNOT1osQJWFA0FrcW5CrSLVg==
   dependencies:
     "@hint/utils-debug" "^1.0.10"
     "@hint/utils-i18n" "^1.0.12"
-    "@hint/utils-network" "^1.0.17"
+    "@hint/utils-network" "^1.0.19"
     "@hint/utils-types" "^1.1.7"
 
 "@hint/hint-http-compression@^5.2.18":
-  version "5.2.17"
-  resolved "https://registry.yarnpkg.com/@hint/hint-http-compression/-/hint-http-compression-5.2.17.tgz#83830c6210fc4146c5483a58944ef7e726bf3051"
-  integrity sha512-f4HgeTRaU+1wU/GWjRNAbYrr6QTt6xq2br48mJtGw5RBuc4bb5bjSeuQOBp4jOIQtwxNb2GHR8i8l8Nyuv0MDQ==
+  version "5.2.19"
+  resolved "https://registry.yarnpkg.com/@hint/hint-http-compression/-/hint-http-compression-5.2.19.tgz#2220eea4fd4e7026107ef7f52cc64386f16dfa1f"
+  integrity sha512-I1X30Ka8R3yEHydaOkoYZbi/LT9uoyrZaCIzPgpVEtdYU8I9c9UZJnlzaB9D0hwDOIm8UUDDvjLcrQMFwS6Caw==
   dependencies:
-    "@hint/utils" "^7.0.16"
+    "@hint/utils" "^7.0.17"
     "@hint/utils-i18n" "^1.0.12"
-    "@hint/utils-network" "^1.0.17"
+    "@hint/utils-network" "^1.0.19"
     "@hint/utils-string" "^1.0.12"
     "@hint/utils-types" "^1.1.7"
 
@@ -719,13 +719,13 @@
     "@hint/utils-types" "^1.1.7"
 
 "@hint/hint-no-html-only-headers@^3.0.14":
-  version "3.0.13"
-  resolved "https://registry.yarnpkg.com/@hint/hint-no-html-only-headers/-/hint-no-html-only-headers-3.0.13.tgz#20560c68812e8278d2f6b497ea90a03504ab998f"
-  integrity sha512-w5YQb0JsY0BTDJRpobCcV6ry75SXLrIyRqmvaW6jLkENRnKZCfaPbGxBEMVzDpYo0yBwtRz5asnF9d6DWyQXVA==
+  version "3.0.15"
+  resolved "https://registry.yarnpkg.com/@hint/hint-no-html-only-headers/-/hint-no-html-only-headers-3.0.15.tgz#482fa7293352c604db7d0d78cd148cf45763cc10"
+  integrity sha512-n5l0Ry5oQojLMuRTtilgB/2aHb2MvLj7dYpnJwLdGvUawg16J3/JX7MqkZTNMiosdPya2WAXcOttHY+VlEDCkQ==
   dependencies:
     "@hint/utils-debug" "^1.0.10"
     "@hint/utils-i18n" "^1.0.12"
-    "@hint/utils-network" "^1.0.17"
+    "@hint/utils-network" "^1.0.19"
     "@hint/utils-string" "^1.0.12"
     "@hint/utils-types" "^1.1.7"
 
@@ -808,13 +808,13 @@
     got "^11.8.3"
 
 "@hint/hint-strict-transport-security@^3.0.14":
-  version "3.0.13"
-  resolved "https://registry.yarnpkg.com/@hint/hint-strict-transport-security/-/hint-strict-transport-security-3.0.13.tgz#4f8ae8b93d35dda0f5c3818ae17f5db48044a85f"
-  integrity sha512-X1h6FVxVWLkehIPe9lCNZ/47Lv3VsAJCRzkHwA7Ao3wwt6CfJiQa04nZB5aiDYHXQHKX9TQPbS9xPEh3hKGk4Q==
+  version "3.0.15"
+  resolved "https://registry.yarnpkg.com/@hint/hint-strict-transport-security/-/hint-strict-transport-security-3.0.15.tgz#41a915ccfd2901d96fa71c21b374a77e9326c6bd"
+  integrity sha512-LBEA3+aMdAqpj+mqotVw4s0R4ppenl2V89KoLYe8+jaB7i728KqBZULN/bJkMWMOXVinrOWmE9/jJBLo/hu7KA==
   dependencies:
     "@hint/utils-debug" "^1.0.10"
     "@hint/utils-i18n" "^1.0.12"
-    "@hint/utils-network" "^1.0.17"
+    "@hint/utils-network" "^1.0.19"
     "@hint/utils-string" "^1.0.12"
     "@hint/utils-types" "^1.1.7"
 
@@ -857,13 +857,13 @@
     "@hint/utils-types" "^1.1.7"
 
 "@hint/hint-x-content-type-options@^4.0.14":
-  version "4.0.13"
-  resolved "https://registry.yarnpkg.com/@hint/hint-x-content-type-options/-/hint-x-content-type-options-4.0.13.tgz#e8edd9b7e3670d2fda9bbb7c50727fda2f39a1be"
-  integrity sha512-L/VfNoZKNfr3DYerMe6hScPHOStx5Gc8UibjWbYoR8wECfF9dSWFtBlN5x18t2sEU1qu93NK74H9M6kKQLmi6g==
+  version "4.0.15"
+  resolved "https://registry.yarnpkg.com/@hint/hint-x-content-type-options/-/hint-x-content-type-options-4.0.15.tgz#d9671a8de1e556960f61139513da983ed3d61d3d"
+  integrity sha512-liCt+dH0hxx0PXCG2AM6suDWYcGk3lPDu+4Nq7D8oUDuFimWGXqaEJmU/lrJNPnJVA+gCHsEwdagZBBN5ULJNA==
   dependencies:
     "@hint/utils-debug" "^1.0.10"
     "@hint/utils-i18n" "^1.0.12"
-    "@hint/utils-network" "^1.0.17"
+    "@hint/utils-network" "^1.0.19"
     "@hint/utils-string" "^1.0.12"
     "@hint/utils-types" "^1.1.7"
 
@@ -1057,6 +1057,20 @@
   version "1.0.18"
   resolved "https://registry.yarnpkg.com/@hint/utils-network/-/utils-network-1.0.18.tgz#4c8bb17a7061dfd5df2bbb39427f47dd88e44c70"
   integrity sha512-igtNEsGpadWIrzESTLhpNvul7CNaqzmzQDe63XuA8fTR2799OuKOlXBVC1YTk6xmZYAPxDcnKyKQPBpLryKM4Q==
+  dependencies:
+    "@hint/utils" "^7.0.17"
+    "@hint/utils-debug" "^1.0.10"
+    "@hint/utils-fs" "^1.0.14"
+    "@hint/utils-string" "^1.0.12"
+    "@hint/utils-types" "^1.1.7"
+    content-type "^1.0.4"
+    lodash "^4.17.21"
+    request "^2.88.2"
+
+"@hint/utils-network@^1.0.19":
+  version "1.0.19"
+  resolved "https://registry.yarnpkg.com/@hint/utils-network/-/utils-network-1.0.19.tgz#f7a9da7ae3b5e8a1f19874d035308a86d475c2ea"
+  integrity sha512-WZIUq4VOP/HeuorDTW23yz20zcYX9Gf/EMHCOluNap0gRcbIHqONqYcVOfHBtgIbBgVC6y4cUTh5yX5iFw2bVQ==
   dependencies:
     "@hint/utils" "^7.0.17"
     "@hint/utils-debug" "^1.0.10"

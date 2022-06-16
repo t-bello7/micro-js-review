@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Micro-Todo-list
+# Micro-Todo-list - Review Check
 
 >A minimalist Todo list app that's everywhere you are. "To-do list" is a tool that helps to organize your day. It simply lists the things that you need to do and allows you to mark them as complete. 
 
